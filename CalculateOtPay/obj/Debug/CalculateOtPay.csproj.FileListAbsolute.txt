@@ -1,0 +1,7 @@
+C:\Users\Miguel\source\repos\CalculateOtPay\CalculateOtPay\bin\Debug\CalculateOtPay.exe.config
+C:\Users\Miguel\source\repos\CalculateOtPay\CalculateOtPay\bin\Debug\CalculateOtPay.exe
+C:\Users\Miguel\source\repos\CalculateOtPay\CalculateOtPay\bin\Debug\CalculateOtPay.pdb
+C:\Users\Miguel\source\repos\CalculateOtPay\CalculateOtPay\obj\Debug\CalculateOtPay.csprojAssemblyReference.cache
+C:\Users\Miguel\source\repos\CalculateOtPay\CalculateOtPay\obj\Debug\CalculateOtPay.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\CalculateOtPay\CalculateOtPay\obj\Debug\CalculateOtPay.exe
+C:\Users\Miguel\source\repos\CalculateOtPay\CalculateOtPay\obj\Debug\CalculateOtPay.pdb
